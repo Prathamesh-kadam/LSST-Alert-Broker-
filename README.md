@@ -11,4 +11,6 @@ some good examples and modeules for the fink science modules
 
 https://doc.ztf.fink-broker.org/services/bots/#telegram
 
+https://doc.ztf.fink-broker.org/services/bots/
+
 this is a link to create a bot directly fetching the alerts, especiallly in the telegram what Dr. Emillie Irida has taught us during the workshop
