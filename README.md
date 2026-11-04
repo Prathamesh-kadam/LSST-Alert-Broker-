@@ -14,3 +14,11 @@ https://doc.ztf.fink-broker.org/services/bots/#telegram
 https://doc.ztf.fink-broker.org/services/bots/
 
 this is a link to create a bot directly fetching the alerts, especiallly in the telegram what Dr. Emillie Irida has taught us during the workshop
+
+
+04/11/2026
+
+ALeRCE Broker:
+https://github.com/fforster/alerce-iucaa-2026
+
+Dr. Francisco Förster Burón
