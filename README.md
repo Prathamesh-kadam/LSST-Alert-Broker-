@@ -24,3 +24,10 @@ ALeRCE Broker: https://alerce.readthedocs.io/en/latest/
 https://github.com/fforster/alerce-iucaa-2026
 
 Dr. Francisco Förster Burón
+
+
+05/11/2026
+
+Vera c rubin LSST data acceess
+
+https://data.lsst.cloud/
