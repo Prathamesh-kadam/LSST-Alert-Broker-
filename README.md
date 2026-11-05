@@ -31,3 +31,6 @@ Dr. Francisco Förster Burón
 Vera c rubin LSST data acceess
 
 https://data.lsst.cloud/
+
+
+Community for LSST where peaople interact and latest news is shared: https://www.rubin.community/
